@@ -1,1 +1,2 @@
-simple_shell project done by Esra'a Khaled and Abubakar Abdul
+# ALX Simple Shell project
+by Esra'a Khaled and Abubakar Abdul
