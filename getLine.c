@@ -159,8 +159,6 @@ int _getline(info_t *info, char **ptr, size_t *length)
 /**
  * sigintHandler - blocks ctrl-C
  * @sig_num: the signal number
- *
- * Return: void
  */
 void sigintHandler(__attribute__((unused))int sig_num)
 {
